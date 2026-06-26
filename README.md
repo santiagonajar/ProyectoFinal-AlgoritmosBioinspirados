@@ -61,5 +61,5 @@ Al ejecutarse, el programa:
 ---
 
 ## Autores
-Alcantara Ascencio Leticia
+Alcantara Ascencio Leticia,
 Najar Carbajal Santiago
